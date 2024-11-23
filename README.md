@@ -1,4 +1,5 @@
 # miniProject
-mini project Stone, Paper &amp; Scissors Game using html, css,  javaScript for practice.
 
-Auther-Abdullah
+mini project Stone, Paper &amp; Scissors Game using html, css, javaScript for practice.
+
+Auther-Abdullah khan
